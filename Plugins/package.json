@@ -15,6 +15,7 @@
 		"Light"
 	],
 	"others": [
-		"Gamepad"
+		"Gamepad",
+		"Move in all directions"
 	]
 }
