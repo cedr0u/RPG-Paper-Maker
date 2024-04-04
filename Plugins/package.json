@@ -16,6 +16,7 @@
 	],
 	"others": [
 		"Gamepad",
-		"Move in all directions"
+		"Move in all directions",
+		"Skip title"
 	]
 }
