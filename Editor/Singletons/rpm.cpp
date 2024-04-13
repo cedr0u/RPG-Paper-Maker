@@ -848,7 +848,8 @@ void RPM::readTranslations() {
         "Русский",
         "日本語",
         "中文",
-        "한국어"
+        "한국어",
+        "عربي بالعربية"
     });
     RPM::ENUM_TO_STRING_ORIENTATION_KIND = QStringList({
         RPM::translate(Translations::SOUTH),

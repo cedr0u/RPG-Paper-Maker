@@ -2553,6 +2553,11 @@
                         "repo": "RPG-Paper-Maker",
                         "source": "EditorApp/Content/translations/transltions-it.json",
                         "target": "Engine/Content/translations/transltions-it.json"
+                    },
+                    {
+                        "repo": "RPG-Paper-Maker",
+                        "source": "EditorApp/Content/translations/transltions-ar.json",
+                        "target": "Engine/Content/translations/transltions-ar.json"
                     }
                 ],
                 "target": "Engine/Content/translations"
@@ -9886,6 +9891,11 @@
                 "repo": "RPG-Paper-Maker",
                 "source": "EditorApp/Content/translations/transltions-it.json",
                 "target": "Engine/Content/translations/transltions-it.json"
+            },
+            {
+                "repo": "RPG-Paper-Maker",
+                "source": "EditorApp/Content/translations/transltions-ar.json",
+                "target": "Engine/Content/translations/transltions-ar.json"
             }
         ],
         "target": "Engine/Content/translations"
